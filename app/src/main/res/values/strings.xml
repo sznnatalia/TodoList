@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TODOList</string>
+    <string name="action_settings">Settings</string>
+    <string name="torles">Delete</string>
+    <string name="szerkesztes">Edit</string>
+    <string name="high">High</string>
+    <string name="medium">Medium</string>
+    <string name="low">Low</string>
+    <string name="priority">Priority:</string>
+    <string name="comment">Comment:</string>
+    <string name="todo">TODO:</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+</resources>
